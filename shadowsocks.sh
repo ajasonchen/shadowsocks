@@ -2,16 +2,14 @@
 #===============================================================================================
 #   System Required:  Debian or Ubuntu (32bit/64bit)
 #   Description:  Install Shadowsocks(libev) for Debian or Ubuntu
-#   Author: tennfy <admin@tennfy.com>
-#   Intro:  http://www.tennfy.com
+#   Author: ajasonchen
 #===============================================================================================
 
 clear
 echo "#############################################################"
 echo "# Install Shadowsocks(libev) for Debian or Ubuntu (32bit/64bit)"
-echo "# Intro: http://www.tennfy.com"
 echo "#"
-echo "# Author: tennfy <admin@tennfy.com>"
+echo "# Author: ajasonchen"
 echo "#"
 echo "#############################################################"
 echo ""
